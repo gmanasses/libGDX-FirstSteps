@@ -1,3 +1,8 @@
+/*
+	All code bellow are made without screen separation, but the funcionality is the same
+*/
+
+/*
 package com.duckhat.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
@@ -133,3 +138,4 @@ public class MyFirstGdxGame extends ApplicationAdapter {
 		lastDropTime = TimeUtils.nanoTime();
 	}
 }
+*/
